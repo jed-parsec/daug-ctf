@@ -68,7 +68,7 @@ Build the Docker image for the CTF challenge.
 
 1. **Navigate to Directory**:
    ```bash
-   cd folder-upload
+   cd file-upload
    ```
 
 2. **Build the Image**:
