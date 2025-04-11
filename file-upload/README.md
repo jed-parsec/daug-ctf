@@ -1,6 +1,3 @@
-
-```markdown
-```markdown
 # File Upload CTF Challenge
 
 This repository contains a Docker-based Capture The Flag (CTF) challenge focused on a file upload vulnerability. The challenge runs in a containerized web application, accessible via a browser, where players must exploit the vulnerability to retrieve a hidden flag stored at `/secret/flag.txt`. This README explains how to set up a custom Docker network (`ctf-net`) with a static IP for the container and how to build and run the challenge.
